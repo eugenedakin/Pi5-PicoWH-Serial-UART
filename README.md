@@ -13,4 +13,4 @@ Breadboard Layout
 
 Screen Grab of running program
 
-![](https://github.com/eugenedakin/lgpio-ContactlessThermometer-MLX90614/blob/main/ScreenGrab.png)
+![](https://github.com/eugenedakin/Pi5-PicoWH-Serial-UART/blob/main/ScreenGrab.png)
