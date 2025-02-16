@@ -8,5 +8,9 @@ The teaser video can be viewed at: [![Raspberry Pi Pico WH Xojo Teaser Video](ht
 To use the GPIO serial communication (UART) on the Raspberry Pi 5 with Xojo, install the following library with the command 'sudo apt install libunwind8'.
 
 Breadboard Layout
+
 ![](https://github.com/eugenedakin/Pi5-PicoWH-Serial-UART/blob/main/Pi5PicoWH.png)
 
+Screen Grab of running program
+
+![](https://github.com/eugenedakin/lgpio-ContactlessThermometer-MLX90614/blob/main/ScreenGrab.png)
